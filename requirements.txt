@@ -3,8 +3,8 @@ pandas
 scikit-learn==1.6.1
 matplotlib
 seaborn
-streamlit==1.31.1
+streamlit==1.53.1
 plotly
 joblib
 Pillow
-altair==4.2.2
+altair==5.2.0
